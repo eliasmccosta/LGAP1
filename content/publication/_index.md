@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publicações
 
 # Listing view
 view: citation

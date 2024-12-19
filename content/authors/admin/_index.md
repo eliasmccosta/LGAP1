@@ -1,77 +1,72 @@
 ---
+
 # Display name
-title: Nelson Bighetti
+title: LGAP
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: LGAP
+last_name: LGAP
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Laboratório de GeoTecnologias e Agricultura Preditiva (LGAP)
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Instituto Federal do Tocantins - Campus Pedro Afonso
+    url: "https://www.ifto.edu.br/pedroafonso"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A missão do LGAP é promover a inovação tecnológica e a sustentabilidade na agricultura, utilizando geotecnologias, sensoriamento remoto, inteligência artificial e técnicas preditivas para otimizar a gestão e o manejo das atividades agrícolas e ambientais.
 
+# Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - Agricultura Digital
+  - Agricultura de Precisão
+  - Mapeamento Digital de Solos
+  - Fertilidade e Manejo de Solos
+  - Aptidão das Terras e Zoneamento Agrícola
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+    link: "https://www.instagram.com/lgap_ifto" # Substitua pelo link real se houver
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Email
+email: ""
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
+user_groups: []
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## **Áreas de Atuação**
+- Levantamento, Classificação e Mapeamento de Solos  
+- Avaliação da Aptidão das Terras e Capacidade de Uso  
+- Fertilidade e Manejo de Solos  
+- Monitoramento Agrícola e Ambiental  
+- Aplicação de Insumos à Taxa Variada  
+- Coleta e Análise de Dados  
+- Sensores para Medidas de Atributos de Solo e Planta  
+- Sensoriamento Remoto  
+- Sistemas de Apoio à Gestão da Propriedade Rural  
+- Zonas de Manejo em Sistemas de Produção  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## **Tecnologia e Inovação**
+- Desenvolvimento de Aplicativos e Softwares Integrados  
+- Pesquisas sobre a Aplicação de Drones na Agricultura  
+- Aprendizado de Máquina e Inteligência Artificial Aplicados à Agricultura  
+
+## **Ensino e Capacitação**
+- **Aulas e Treinamentos**: Formação prática e teórica no uso de geotecnologias e sensoriamento remoto aplicados à agricultura.  
+- **Treinamento em Levantamento e Mapeamento de Solos**: Capacitação em técnicas avançadas de levantamento e mapeamento de solos.  
+- **Análise de Dados Agronômicos**: Formação em coleta, processamento e análise de dados agronômicos para suporte à decisão.  
+- **Programação em R**: Cursos de programação em R voltados para análise de dados e criação de modelos preditivos na agricultura.  
+- **Automação de Relatórios**: Desenvolvimento de competências para a automação de relatórios e processos através de ferramentas tecnológicas.  
+---
