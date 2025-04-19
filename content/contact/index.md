@@ -12,7 +12,7 @@ sections:
       country_code: BR
       postcode: "77950-000"
       region: Tocantins
-      street: Povoado Santa Tereza, S/N, KM 05 Zona Rural, Araguatins - TO
+      street: Povoado Santa Tereza, S/N, KM 05, Zona Rural, Araguatins - TO
     appointment_url: https://www.ifto.edu.br/araguatins
     autolink: true
     coordinates:
