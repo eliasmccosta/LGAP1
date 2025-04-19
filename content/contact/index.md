@@ -7,18 +7,18 @@ sections:
 - block: contact
   content:
     address:
-      city: Pedro Afonso
+      city: Araguatins
       country: Brasil
       country_code: BR
-      postcode: "77710-000"
+      postcode: "77950-000"
       region: Tocantins
-      street: Rua Ceará, Nº 1441 Setor Zacarias Campelo, Pedro Afonso - TO
-    appointment_url: https://www.ifto.edu.br/pedroafonso
+      street: Povoado Santa Tereza, S/N, KM 05 Zona Rural, Araguatins - TO
+    appointment_url: https://www.ifto.edu.br/araguatins
     autolink: true
     coordinates:
-      latitude: "-8.987842"
-      longitude: "-48.161315"
-    directions: IFTO - Pedro Afonso
+      latitude: "-5.6449"
+      longitude: "-48.0721"
+    directions: IFTO - Araguatins
     email: elias.costa@ifto.edu.br
     form:
       provider: netlify
